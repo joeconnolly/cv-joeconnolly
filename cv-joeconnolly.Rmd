@@ -1,5 +1,5 @@
 ---
-title: "Joseph K Connolly"
+title: ""
 author: ""
 date: ""
 output:
@@ -11,25 +11,28 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+# Joseph K. Connolly
 
-Phone: (516) 600-8112
-
-E-mail: jkc238@cornell.edu
 
 ### Cornell University Biological Field Station 
 900 Shackelton Point Road, Bridgeport, NY, 13030                	
 Website: https://cbfs.dnr.cornell.edu/
 
+> Phone: (516) 600-8112
+
+> E-mail: jkc238@cornell.edu
+
+<brb>
 
 **Professional Preparation:**
 
-2018 - Present M.S. Natural Resources (Concentration in Fisheries and Aquatic Science), Cornell University, Ithaca, NY (Pending)
+2018 - Present M.S. Natural Resources (Concentration in Fisheies and Aquati Science), Cornell University, Ithaca, NY (Pending)
 
-2013 - B.A. Environmental Science (Concentration in Environmental Planning and Management), Plattsburgh State University of New York, Plattsburgh, NY
+2013 - B.A. Environmental Science (Concentration in Environmenta Planning an Management), Plattsburgh State University of New York, Plattsburgh, NY
 
-	
+<br>
+
 **Professional Appointments:**
-
 
 2021 - Present	Research Technician III (Limnology Technician), Cornell Biological Field Station, Department of Natural Resources, Cornell University
 
@@ -42,6 +45,8 @@ Website: https://cbfs.dnr.cornell.edu/
 2014	Environmental Technician, Atlantic Testing Laboratories LLC, Plattsburgh, NY
 
 2012 - 2014	Research Technician (Zooplankton Analyst), Lake Champlain Research Institute, Research Foundation of SUNY, Plattsburgh State University of New York 
+
+<br>
 
 **Taxonomic Training:**
 
@@ -57,15 +62,17 @@ Website: https://cbfs.dnr.cornell.edu/
 
 2012 - Training in the taxonomy of freshwater (Lake Champlain) Cladocera, Copepoda, Malacostraca, and Rotifera. Lake Champlain Research Institute, Plattsburgh State University of New York, Plattsburgh, New York.
 
+<br>
 
 **Professional Societies:**
-
 
 2018 - Present	Cornell Department of Natural Resources and the Environment Graduate Student Association
 
 2017 - Present	World Association of Copepodologists
 
 2016 - Present 	International Association for Great Lakes Research
+
+<br>
 
 **Peer Reviewed Publications:**
 
@@ -79,8 +86,9 @@ Connolly, J.K., Watkins, J.M., Marshall, C.C., Adams, J.M., Rudstam, L.G., and B
 
 Connolly, J.K., Watkins, J.M., Hinchey, E.K., Rudstam, L.G., and Reid, J.W., 2017. New cyclopoid copepod (Thermocyclops crassus) reported in the Laurentian Great Lakes. Journal of Great Lakes Research 43, 198-203.
 
-**Scientific Conference Presentations:**
+<br>
 
+**Scientific Conference Presentations:**
 
 Connolly, J.K., Watkins, J.M., O’Malley, B.P., Hudson, P.L., and Rudstam, L.G., 2019. Lake Ontario Harpacticoid copepod community assessment with comparative analysis of native and non-native taxa. 62th Annual Conference on Great Lakes Research. Brockport, New York, USA. (Oral)
 
