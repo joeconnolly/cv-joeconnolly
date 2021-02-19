@@ -1,0 +1,122 @@
+---
+title: ""
+author: ""
+date: ""
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Joseph K. Connolly
+
+
+### Cornell University Biological Field Station 
+900 Shackelton Point Road, Bridgeport, NY, 13030                	
+Website: https://cbfs.dnr.cornell.edu/
+
+> Phone: (516) 600-8112
+
+> E-mail: jkc238@cornell.edu
+
+<brb>
+
+**Professional Preparation:**
+
+2018 - Present M.S. Natural Resources (Concentration in Fisheies and Aquati Science), Cornell University, Ithaca, NY (Pending)
+
+2013 - B.A. Environmental Science (Concentration in Environmenta Planning an Management), Plattsburgh State University of New York, Plattsburgh, NY
+
+<br>
+
+**Professional Appointments:**
+
+2021 - Present	Research Technician III (Limnology Technician), Cornell Biological Field Station, Department of Natural Resources, Cornell University
+
+2016 - 2021	Research Technician II (Limnology Technician), Cornell Biological Field Station, Department of Natural Resources, Cornell University
+
+2014 - 2016	Research Technician I (Limnology Technician), Cornell Biological Field Station, Department of Natural Resources, Cornell University
+
+2014	Temporary Service Technician, Cornell Biological Field Station, Department of Natural Resources, Cornell University
+
+2014	Environmental Technician, Atlantic Testing Laboratories LLC, Plattsburgh, NY
+
+2012 - 2014	Research Technician (Zooplankton Analyst), Lake Champlain Research Institute, Research Foundation of SUNY, Plattsburgh State University of New York 
+
+<br>
+
+**Taxonomic Training:**
+
+2019 - Lead workshop in taxonomy of freshwater (Laurentian Great Lakes) Copepoda (Calanoida, Cyclopoida, Harpacticoida, Poecilostomatoida, and Siphonostomatoida) and Branchiura (Arguloida). 62th Annual Conference on Great Lakes Research at Brockport State University of New York, Brockport, New York.
+
+2018 - Training in the taxonomy of Cladocerans of the Northeastern and Central United States. With Kay Van Damne of the Senckenberg Research Institute, Frankfurt, Germany at Cornell University, Cornell Biological Field Station, Bridgeport, New York.
+
+2017 - Training in the taxonomy of freshwater (Laurentian Great Lakes) Copepoda, Cladocera, Branchiura, and Rotifera. With Patrick Hudson of the United States Geological Survey Great Lakes Science Center, Ann Arbor, Michigan at Cornell University, Cornell Biological Field Station, Bridgeport, New York.
+
+2017 - Training in the taxonomy and systematics of Copepoda (Calanoida, Cyclopoida, Harpacticoida, Poecilostomatoida, and Siphonostomatoida). With the World Association of Copepodologists at Scripps Institution of Oceanography, University of California San Diego, San Diego, California.
+
+2014 - Training in the taxonomy of freshwater (Laurentian Great Lakes) Cladocera, Copepoda, Malacostraca, and Rotifera. Cornell University, Cornell Biological Field Station, Bridgeport, New York.
+
+2012 - Training in the taxonomy of freshwater (Lake Champlain) Cladocera, Copepoda, Malacostraca, and Rotifera. Lake Champlain Research Institute, Plattsburgh State University of New York, Plattsburgh, New York.
+
+<br>
+
+**Professional Societies:**
+
+2018 - Present	Cornell Department of Natural Resources and the Environment Graduate Student Association
+
+2017 - Present	World Association of Copepodologists
+
+2016 - Present 	International Association for Great Lakes Research
+
+<br>
+
+**Peer Reviewed Publications:**
+
+Connolly, J.K., Watkins, J.M., Hinchey, E.K., Rudstam, L.G., and Reid, J.W., 2019. The Asian cyclopoid copepod Mesocyclops pehpeiensis Hu, 1943 reported from the western basin of Lake Erie. Journal of Great Lakes Research 45, 196–201.
+
+Marshall, C.C., Hudson, P. L., Jackson, J. R., Connolly, J. K., Watkins, J. M., and Rudstam, L. G. 2019. First record of the non-indigenous parasitic copepod Neoergasilus japonicus (Harada, 1930) in the Lake Ontario Watershed: Oneida Lake, New York. J. Great Lakes Research 45, 1348-1353.
+
+Whitemore, E.A., Connolly, J. K., Van Damme, K., Watkins, J.M., Hinchey, E.K., and Rudstam, L.G., 2019. First record of the Neotropical cladoceran Diaphanosoma fluviatile in the Great Lakes basin. Journal of Bioinvasion Records 8, 614-622.
+
+Connolly, J.K., Watkins, J.M., Marshall, C.C., Adams, J.M., Rudstam, L.G., and Błędzki, L.A., 2018. Brachionus leydigii (Monogononta: Ploima) reported from the Western basin of Lake Erie. Journal of Great Lakes Research 44, 1123-1126.
+
+Connolly, J.K., Watkins, J.M., Hinchey, E.K., Rudstam, L.G., and Reid, J.W., 2017. New cyclopoid copepod (Thermocyclops crassus) reported in the Laurentian Great Lakes. Journal of Great Lakes Research 43, 198-203.
+
+<br>
+
+**Scientific Conference Presentations:**
+
+Connolly, J.K., Watkins, J.M., O’Malley, B.P., Hudson, P.L., and Rudstam, L.G., 2019. Lake Ontario Harpacticoid copepod community assessment with comparative analysis of native and non-native taxa. 62th Annual Conference on Great Lakes Research. Brockport, New York, USA. (Oral)
+
+Marshall, C.C., Connolly, J.K., Hudson, P.L., 2019. Distribution and ecology of Ergasilus cotti (Kellicott 1892): A parasite from mottled sculpin and rainbow darter. 62th Annual Conference on Great Lakes Research. Brockport, New York, USA. (Oral)
+
+Schaefer, S. L, Boynton, P. V., Connolly, J.K., Watkins, J.M., and Rudstam, L.G., 2019. Seasonal trends in the epilimnetic rotifer community of Lake Ontario in 2018. 62th Annual Conference on Great Lakes Research. Brockport, New York, USA. (Poster)
+
+Connolly, J.K., Watkins, J.M., O’Malley, B.P., Hudson, P.L., and Rudstam, L.G., 2019. Lake Ontario Harpacticoid copepod community assessment with comparative analysis of native and non-native taxa. Cornell Department of Natural Resources Graduate Student Association Symposium. Ithaca, New York, USA. (Oral)
+
+Connolly, J.K., Watkins, J.M., and Rudstam, L.G., 2018. Long-term Biological Monitoring: Planktonic Rotifers of the Laurentian Great Lakes (Abridged Summary). Cornell Biological Field Station Summer Seminar Series (Speed Talks). Bridgeport, New York, USA. (Oral)
+
+Connolly, J.K., Watkins, J.M., and Rudstam, L.G., 2018. Long-term Biological Monitoring: Planktonic Rotifers of the Laurentian Great Lakes. 15th International Rotifer Symposium. El Paso, Texas, USA. (Oral)
+
+Marshall, C.C., Connolly, J.K., Watkins, J.M., Rudstam, L.G., and Hudson, P.L., 2018. Parasitic Copepods of the Laurentian Great Lakes: Genetic Barcoding of Ergasilidae. 61th Annual Conference on Great Lakes Research. Toronto, Ontario, Canada. (Oral)
+
+Connolly, J.K., Watkins, J.M., Marshall, C.C., Warren, G.J., and Rudstam, L.G., 2017. Non-native rotifer Brachionus leydigii detected in Lake Erie’s western basin. 2nd Binational Great Lakes Aquatic Invasive Species Forum. Ann Arbor, Michigan, USA. (Oral) 
+
+Watkins, J.M., Barbiero, R.P., Warren, G.J., Hinchey, E.K., Connolly, J.K., and Rudstam, L.G., 2017. Crustacean zooplankton in Lake Erie, 1997-2014. 8th Binational Meeting of the Lake Erie Millennium Network. Windsor, Ontario, Canada. (Oral)
+
+Connolly, J.K., Watkins, J.M., Warren, G.J., and Rudstam, L.G., 2017. Exotic cyclopoid copepod Thermocyclops crassus detected in Lake Erie. 1st Binational Great Lakes Aquatic Invasive Species Forum. Erie, Pennsylvania, USA. (Oral)
+
+Connolly, J.K., Watkins, J.M., Warren, G.J., and Rudstam, L.G., 2017. Exotic cyclopoid copepod Thermocyclops crassus detected in Lake Erie. 60th Annual Conference on Great Lakes Research. Detroit, Michigan, USA. (Oral)
+
+Marshall, C.C., Connolly, J.K., Watkins, J.M., and Rudstam, L.G., 2017. Cercopagis Predation Impact upon Rotifer Communities in Lakes Ontario and Erie. 60th Annual Conference on Great Lakes Research. Detroit, Michigan, USA. (Poster)
+
+Connolly, J.K., Watkins, J.M., and Rudstam, L.G., 2016. An Assessment of Laurentian Great Lakes Rotifer Communities by Density. 59th Annual Conference on Great Lakes Research. Guelph, Ontario, Canada. (Poster)
+
+
+
+
+
